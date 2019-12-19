@@ -1,0 +1,57 @@
+{
+    "name": "Open Badges",
+    "description": "<p>A digital badge is an online representation of a skill you&rsquo;ve earned. Open Badges take that concept one step further, and allows you to verify your skills, interests and achievements through credible organizations. And because the system is based on an open standard, you can combine multiple badges from different issuers to tell the complete story of your achievements &mdash; both online and off. Display your badges wherever you want them on the web, and share them for employment, education or lifelong learning.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mozilla-open-badges-logo.png",
+    "tags": [
+        "badges",
+        "certifications",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-badges\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Badges",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mozilla-open-badges-logo.png",
+            "humanURL": "http:\/\/openbadges.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-badges-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-badges-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/openbadges.tumblr.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/openbadges.tumblr.com\/rss"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/directory.openbadges.org\/developers\/api-explorer"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OpenBadges"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/openbadges.org\/"
+        }
+    ]
+}
